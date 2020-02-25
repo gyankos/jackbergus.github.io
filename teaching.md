@@ -12,6 +12,12 @@ subtitle: Teaching courses
 * [Big-O Notation (2020)](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/01bigo_handouts.pdf) 
   * Topics: **a.** Recursive Fibonacci, Bachmann–Landau notation, Binet's Formula, Evaluating computational complexity by induction, Caching and Memoization, Linear Recurrences' Theorem. **b.** Master Theorem, Cache-Aware Trees, VP-Trees. 
   * [Slides](https://raw.githubusercontent.com/jackbergus/NotesOnProgramming2020/master/slides/01bigo.pdf), [Source code](https://github.com/jackbergus/NotesOnProgramming2020/tree/master/src/big_o_notation)
+  
+* Lectures on In-Silico Learning (2020)
+
+   1. Introduction
+   2. Learning Algorithms for Classification
+   3. Data Mining Algorithms for Frequent Rule Mining
 
 
 # As a Teaching Assistant
